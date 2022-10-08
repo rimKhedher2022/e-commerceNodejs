@@ -26,7 +26,8 @@ amount:{
     type:Number,
     required:true,
 },
-amount:{
+
+adress:{
     type:Object,
     required:true,
 },
